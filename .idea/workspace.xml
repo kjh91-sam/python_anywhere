@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70bfed7a-4d84-48fa-8d86-609e7539f0b6" name="Default Changelist" comment="" />
+    <list default="true" id="70bfed7a-4d84-48fa-8d86-609e7539f0b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +33,7 @@
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="0f4c96e5-35de-4a24-a224-cf3da36b6fd3" />
   <component name="ProjectId" id="1gyrwtg3St1K9II1S1OJwyQBoIE" />
@@ -52,7 +56,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="CRUDblog_practice" type="Python.DjangoServer" factoryName="Django server">
@@ -87,7 +91,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599097915831</updated>
-      <workItem from="1599097917112" duration="6029000" />
+      <workItem from="1599097917112" duration="7427000" />
+      <workItem from="1599123126254" duration="1149000" />
     </task>
     <servers />
   </component>
@@ -104,15 +109,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="336" y="302" key="FileChooserDialogImpl" timestamp="1599099534492">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="336" y="302" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1599099534492" />
-    <state x="50" y="179" key="SettingsEditor" timestamp="1599099731469">
+    <state x="50" y="179" key="SettingsEditor" timestamp="1599123111424">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="50" y="179" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1599099731469" />
+    <state x="50" y="179" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1599123111424" />
   </component>
 </project>
