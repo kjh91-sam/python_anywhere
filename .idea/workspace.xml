@@ -20,11 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70bfed7a-4d84-48fa-8d86-609e7539f0b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/static/css/blog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/post_edit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/static/css/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/blog/static/css/blog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
     </list>
@@ -62,6 +63,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blog/" />
+      <recent name="$PROJECT_DIR$/blog/templates/blog" />
+      <recent name="$PROJECT_DIR$/blog/templates/" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="CRUDblog_practice" type="Python.DjangoServer" factoryName="Django server">
       <module name="CRUDblog_practice" />
@@ -96,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599097915831</updated>
       <workItem from="1599097917112" duration="7427000" />
-      <workItem from="1599123126254" duration="5251000" />
+      <workItem from="1599123126254" duration="8945000" />
     </task>
     <servers />
   </component>
@@ -116,6 +124,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="140" y="625" width="800" height="717" key="#Intentions" timestamp="1599145514611">
+      <screen x="0" y="0" width="1080" height="1920" />
+    </state>
+    <state x="140" y="625" width="800" height="717" key="#Intentions/0.0.1080.1920@0.0.1080.1920" timestamp="1599145514611" />
     <state x="336" y="302" key="FileChooserDialogImpl" timestamp="1599099534492">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

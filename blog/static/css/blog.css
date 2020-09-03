@@ -19,7 +19,7 @@ h1, h2, h3, h4 {
 }
 
 .date {
-    color: darkslateblue;
+    flex-direction: row;
 }
 
 .save {
@@ -39,6 +39,7 @@ h1, h2, h3, h4 {
 
 .post {
     margin-bottom: 70px;
+    flex: fit-content;
 }
 
 .post h1 a, .post h1 a:visited {
